@@ -47,6 +47,7 @@ def test_circle():
 
     assert length == 144.51326206513048
 
+
     print(f"Длина = {length}")
     print(f"Площадь = {area}")
 
